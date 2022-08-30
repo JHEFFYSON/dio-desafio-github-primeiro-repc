@@ -1,0 +1,12 @@
+# Etapas
+
+## 
+ - Conheça as Oportunidades da DIO -  **CONCLUIDO**
+
+ - Seja Protagonista Neste Bootcamp - **CONCLUIDO**
+
+ - Introdução ao Desenvolvimento Moderno de Software - **CONCLUIDO**
+
+ - Introdução ao Git e ao GitHub - **CONCLUIDO**
+
+ - Desafio de Projeto - **CONCLUIDO**
